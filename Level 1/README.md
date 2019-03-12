@@ -1,18 +1,3 @@
-# Programming Assignment 1: Asterix and the Olympic Games (Winter Olympics Edition)
-
-<center>Due: Friday March 2, 2018, 23:59 hours</center>
-
-### Instructions
-- You may work in groups of two for this lab assignment.
-- This project has two purposes: first to familiarize you with sockets/RMIs/REST, processes, threads; second to learn the design and internals client-pull and server-push systems.
-
-This repo contains assignment description, starter-code, and other resources for the first lab assignment.
-+ Once you are done with your assignment, commit with the message **final**.
-+ Points will be given for ease of reproducibility and readability. So try and make it easy for us.
-+ Modify this `README` with instructions to run your code. 
-+ Comment your code for readability.
-+ Source code goes into the `src` directory. Tests go into tests and documentation
-
 
 ## A: The problem
 - The year is 50 B.C. Gauls, led by Asterix, look forward to challenging the Romans in the latest edition of the ancient Olympic games. Gauls have made tremendous technological progress since the previous olympics and have finally entered the "smart" stone-age. Every Gaul now has a stone tablet that gives them the latest sports scores of their fellow villagers. Each smart-stone (not to be confused with a smart-phone, which are yet to be invented) is updated by Obelix (a sculpter by profession), who has tasked by the village chief to disseminate the latest scores by engraving them onto each stone tablet. You are tasked to design a distributed system using a client-server architecture to efficiently disseminate latest scores to the villagers.
